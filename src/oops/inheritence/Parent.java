@@ -38,3 +38,4 @@ public class Parent {
         this.model = model;
     }
 }
+// Constructors are methods that are automatically executed every time you create an object. The purpose of a constructor is to construct an object and assign values to the object's members.
