@@ -1,4 +1,4 @@
-package javaConcepts.NumberMultiplication;
+package javaConcepts.numberMultiplication;
 
 public class Multiplication {
     int i;

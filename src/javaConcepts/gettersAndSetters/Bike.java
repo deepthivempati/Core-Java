@@ -1,4 +1,4 @@
-package javaConcepts;
+package javaConcepts.gettersAndSetters;
 
 public class Bike{
     private int speed; //getters and setters can be created by rightclick -> generate -> generate getters and setters

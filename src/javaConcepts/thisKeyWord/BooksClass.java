@@ -1,4 +1,4 @@
-package javaConcepts.ThisKeyWord;
+package javaConcepts.thisKeyWord;
 
 public class BooksClass {
     private int noOfCopies; //cannot be private if this member var is inside setNoOfCopies method(gives compilation err)

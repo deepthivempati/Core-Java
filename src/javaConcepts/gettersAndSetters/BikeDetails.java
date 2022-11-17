@@ -1,4 +1,4 @@
-package javaConcepts;
+package javaConcepts.gettersAndSetters;
 
 public class BikeDetails {
     public static void main(String[] args) {

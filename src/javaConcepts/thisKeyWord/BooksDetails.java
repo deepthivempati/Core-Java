@@ -1,4 +1,4 @@
-package javaConcepts.ThisKeyWord;
+package javaConcepts.thisKeyWord;
 
 public class BooksDetails {
     public static void main(String[] args) {

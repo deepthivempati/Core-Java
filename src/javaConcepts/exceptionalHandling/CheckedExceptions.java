@@ -1,4 +1,4 @@
-package javaConcepts.ExceptionalHandling;
+package javaConcepts.exceptionalHandling;
 
 public class CheckedExceptions {
     public static void main(String[] args) throws InterruptedException {

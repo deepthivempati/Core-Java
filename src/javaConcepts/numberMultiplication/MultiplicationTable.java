@@ -1,4 +1,4 @@
-package javaConcepts.NumberMultiplication;
+package javaConcepts.numberMultiplication;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

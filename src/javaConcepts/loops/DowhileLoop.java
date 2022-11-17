@@ -1,4 +1,4 @@
-package javaConcepts.Loops;
+package javaConcepts.loops;
 
 public class DowhileLoop {
     public static void main(String[] args) {
