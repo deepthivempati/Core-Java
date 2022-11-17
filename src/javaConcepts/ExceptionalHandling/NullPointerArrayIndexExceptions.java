@@ -1,4 +1,4 @@
-package ExceptionalHandling;
+package javaConcepts.ExceptionalHandling;
 
 public class NullPointerArrayIndexExceptions {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package oops.inheritence;
+package javaConcepts.oops.Inheritence;
 
-public class Child extends Parent{
+public class Child extends Parent {
     private Float floatVal;
 
     public Child(Float floatVal) {

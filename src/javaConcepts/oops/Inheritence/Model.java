@@ -1,4 +1,4 @@
-package oops.inheritence;
+package javaConcepts.oops.Inheritence;
 
 public class Model {
     private String model1;

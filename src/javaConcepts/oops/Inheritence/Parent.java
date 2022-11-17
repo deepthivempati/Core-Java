@@ -1,4 +1,6 @@
-package oops.inheritence;
+package javaConcepts.oops.Inheritence;
+
+import javaConcepts.oops.Inheritence.Model;
 
 public class Parent {
     private String str;
