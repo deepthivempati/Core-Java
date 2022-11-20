@@ -11,4 +11,7 @@ public class Bike{
         if(speed>0)
         this.speed = speed;
     }
+    public void raiseSpeed(int raiseSpeed){
+       speed = speed+raiseSpeed;
+    }
 }
